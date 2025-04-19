@@ -25,3 +25,12 @@
 + [발표 자료](presentation/lazydev_%EC%84%B8%EC%85%983_%EC%8B%A4%EC%8B%9C%EA%B0%84_%EA%B4%91%EA%B3%A0_%EC%82%AC%EC%9A%A9%EC%9E%90_ID_%EB%A7%A4%ED%95%91_%EC%8B%9C%EC%8A%A4%ED%85%9C_%EA%B5%AC%EC%B6%95.pdf)
 
 ## 후원사
+<div style="text-align: center;">
+  <a href="https://hanbit.co.kr/">
+    <img src="https://github.com/user-attachments/assets/d8383500-f3f9-4b4a-a968-57e45973ace5" style="width: 80%;" />
+  </a>
+  <br /><br />
+  <a href="https://edu.nextstep.camp/">
+    <img src="https://github.com/user-attachments/assets/1fe57902-418b-4816-aaea-60c56bbabc97" style="width: 80%;" />
+  </a>
+</div>
